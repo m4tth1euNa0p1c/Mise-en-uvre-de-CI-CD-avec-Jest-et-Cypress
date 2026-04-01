@@ -1,0 +1,21 @@
+{
+  "name": "mise-en-uvre-de-ci-cd-avec-jest-et-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4tth1euNa0p1c/Mise-en-uvre-de-CI-CD-avec-Jest-et-Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/m4tth1euNa0p1c/Mise-en-uvre-de-CI-CD-avec-Jest-et-Cypress/issues"
+  },
+  "homepage": "https://github.com/m4tth1euNa0p1c/Mise-en-uvre-de-CI-CD-avec-Jest-et-Cypress#readme"
+}
