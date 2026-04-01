@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/m4tth1euNa0p1c/Mise-en-uvre-de-CI-CD-avec-Jest-et-Cypress/issues"
   },
-  "homepage": "https://github.com/m4tth1euNa0p1c/Mise-en-uvre-de-CI-CD-avec-Jest-et-Cypress#readme"
+  "homepage": "https://github.com/m4tth1euNa0p1c/Mise-en-uvre-de-CI-CD-avec-Jest-et-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^15.13.0"
+  }
 }
