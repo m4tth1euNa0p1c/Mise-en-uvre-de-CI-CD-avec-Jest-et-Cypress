@@ -20,5 +20,8 @@
   "homepage": "https://github.com/m4tth1euNa0p1c/Mise-en-uvre-de-CI-CD-avec-Jest-et-Cypress#readme",
   "devDependencies": {
     "cypress": "^15.13.0"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
